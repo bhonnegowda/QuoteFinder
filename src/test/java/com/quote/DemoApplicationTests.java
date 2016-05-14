@@ -1,4 +1,4 @@
-package com.quote.recommender;
+package com.quote;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
